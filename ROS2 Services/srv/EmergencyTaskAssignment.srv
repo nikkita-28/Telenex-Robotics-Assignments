@@ -1,0 +1,8 @@
+# Request
+string robot_id         
+string status           
+string operational_state 
+---
+# Response
+string new_task         
+int32 priority          
